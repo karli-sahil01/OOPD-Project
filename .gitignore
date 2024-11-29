@@ -1,0 +1,6 @@
+/src/*.o
+/bibparser
+/src/*.d
+.Makefile*
+*.tmp
+*.log
